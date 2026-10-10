@@ -8,7 +8,7 @@
 ## Установка и запуск
 
 ### 1. Клонировать репозиторий
-git clone https://github.com/username/my_test_project.git
+git clone https://github.com/dfisenk0/my_test_project.git
 cd my_test_project
 
 ### 2. Создать venv
